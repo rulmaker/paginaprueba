@@ -1,0 +1,21 @@
+body{
+    overflow-x: hidden;
+}
+.altura-img{
+    height: calc(100vh - 56px); 
+}
+
+
+.imagen{
+    height: 25rem;
+}
+
+/* 
+altura vh
+ancho vw
+
+*/
+
+/* @media (){
+
+} */
